@@ -42,13 +42,17 @@ http://localhost:5173
 
 ## Структура
 
-my-react-app/
+MY-REACT-APP/
 ├── src/
 │   ├── components/
-│   │   ├── MessageComponent.jsx
-│   │   └── ErrorBoundary.jsx
+│   │   ├── ErrorBoundary.jsx
+│   │   └── MessageComponent.jsx
 │   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
 ├── package.json
-└── README.md
+├── package-lock.json
+├── README.md
+└── vite.config.js
