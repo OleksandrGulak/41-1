@@ -41,7 +41,7 @@ http://localhost:5173
 Привіт із асинхронного світу React 19!
 
 ## Структура
-
+```
 MY-REACT-APP/
 
 ├── src/
@@ -57,3 +57,4 @@ MY-REACT-APP/
 ├── package-lock.json
 ├── README.md
 └── vite.config.js
+```
