@@ -43,6 +43,7 @@ http://localhost:5173
 ## Структура
 
 MY-REACT-APP/
+
 ├── src/
 │   ├── components/
 │   │   ├── ErrorBoundary.jsx
