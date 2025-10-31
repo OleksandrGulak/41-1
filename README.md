@@ -41,9 +41,7 @@ http://localhost:5173
 Привіт із асинхронного світу React 19!
 
 ## Структура
-
 MY-REACT-APP/
-
 ├── src/
 │   ├── components/
 │   │   ├── ErrorBoundary.jsx
